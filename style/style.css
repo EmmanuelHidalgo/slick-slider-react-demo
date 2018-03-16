@@ -1,0 +1,22 @@
+.slider-container{
+    margin-top: 1rem;
+    padding: 100px;
+}
+
+.slick-prev:before {
+    background-color: orange;
+}
+.slick-next:before {
+    background-color: orange;
+}
+
+.slider {
+    width: 650px;
+    margin: 0 auto;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
